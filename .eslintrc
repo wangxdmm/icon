@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "@antfu"
+  ],
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "n/prefer-global/process": 0
+  }
+}
